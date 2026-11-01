@@ -10,6 +10,9 @@ Welcome to my personal portfolio!
 
 This website showcases my journey into web development, my skills, and the projects I have built while learning.
 
+## 📸 Website Preview
+
+![My Portfolio](portfolio-preview.png)
 ## 👨‍💻 About Me
 I'm Musa Shuaibu Bello, an aspiring web developer from Sokoto, Nigeria.
 
@@ -35,6 +38,4 @@ To continue learning, improving my skills and building useful websites.
 **Created by Musa Shuaibu Bello (MSB)**
 
 *Building my future, one project at a time.* 🚀
-## 📸 Website Preview
 
-![My Portfolio](portfolio-preview.png)
