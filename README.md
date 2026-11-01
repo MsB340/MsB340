@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Musa Shuaibu Bello GitHub Banner">
+</p>
 # Hi, I'm Musa Shuaibu Bello 👋
 
 ### Aspiring Web Developer | Student | Tech Enthusiast
