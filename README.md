@@ -35,3 +35,6 @@ To continue learning, improving my skills and building useful websites.
 **Created by Musa Shuaibu Bello (MSB)**
 
 *Building my future, one project at a time.* 🚀
+## 📸 Website Preview
+
+![My Portfolio](portfolio-preview.png)
