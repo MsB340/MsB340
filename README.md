@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**MsB340/MsB340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Musa Shuaibu Bello 👋
 
-Here are some ideas to get you started:
+### Aspiring Web Developer | Student | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 
+
+I'm currently learning web development and building my skills through practical projects.
+
+- 🌱 Currently learning **HTML and CSS**
+- 💻 Working on personal website projects
+- 🎯 Goal: To become a skilled developer
+- 📍 Based in Sokoto, Nigeria
+- 🌐 Portfolio: https://musa-shuaibu-bello.netlify.app
+
+### 🛠️ Technologies & Tools
+- HTML
+- CSS
+- Visual Studio Code
+- GitHub
+
+### 🚀 Featured Projects
+
+**1. Personal Portfolio Website**
+
+My personal website showcasing my learning journey and projects.
+
+**2. My First Website**
+
+One of my first projects built while learning HTML.
+
+### 📫 Connect With Me
+
+- Email: abbakaraye345@gmail.com
+- Portfolio: https://musa-shuaibu-bello.netlify.app
+
+---
+
+*Building my future, one project at a time.* 🚀
