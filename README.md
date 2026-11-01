@@ -3,41 +3,35 @@
   <img src="./github-banner.png" width="100%" alt="Musa Shuaibu Bello GitHub Banner">
 </p>
 
-# Hi, I'm Musa Shuaibu Bello 👋
 
-### Aspiring Web Developer | Student | Tech Enthusiast
+# 🌐 My Personal Portfolio Website
 
-Welcome to my GitHub profile! 
+Welcome to my personal portfolio!
 
-I'm currently learning web development and building my skills through practical projects.
+This website showcases my journey into web development, my skills, and the projects I have built while learning.
 
-- 🌱 Currently learning **HTML and CSS**
-- 💻 Working on personal website projects
-- 🎯 Goal: To become a skilled developer
-- 📍 Based in Sokoto, Nigeria
-- 🌐 Portfolio: https://musa-shuaibu-bello.netlify.app
+## 👨‍💻 About Me
+I'm Musa Shuaibu Bello, an aspiring web developer from Sokoto, Nigeria.
 
-### 🛠️ Technologies & Tools
-- HTML
-- CSS
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 - Visual Studio Code
-- GitHub
 
-### 🚀 Featured Projects
+## 🚀 Live Website
+[Visit My Portfolio](https://musa-shuaibu-bello.netlify.app)
 
-**1. Personal Portfolio Website**
+## 📂 Features
+- About Me section
+- Technical Skills
+- Featured Projects
+- Contact Information
+- Responsive design
 
-My personal website showcasing my learning journey and projects.
-
-**2. My First Website**
-
-One of my first projects built while learning HTML.
-
-### 📫 Connect With Me
-
-- Email: abbakaraye345@gmail.com
-- Portfolio: https://musa-shuaibu-bello.netlify.app
+## 🎯 Goal
+To continue learning, improving my skills and building useful websites.
 
 ---
+**Created by Musa Shuaibu Bello (MSB)**
 
 *Building my future, one project at a time.* 🚀
