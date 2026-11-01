@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="./github-banner.png" width="100%" alt="Neon Blue Developer Portfolio Banner.png>
-</p>
+
 # Hi, I'm Musa Shuaibu Bello 👋
 
 ### Aspiring Web Developer | Student | Tech Enthusiast
